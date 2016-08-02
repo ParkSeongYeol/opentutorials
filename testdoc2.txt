@@ -1,5 +1,4 @@
 <html>
 	<body>
-		<ht>GIT</h1>
 	</body>
 </html>
