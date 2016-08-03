@@ -6,5 +6,6 @@
 	실험의 내용
 	push
 	push2
+	external diff (실험4)
 	</body>
 </html>
