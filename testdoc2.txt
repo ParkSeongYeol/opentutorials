@@ -1,6 +1,6 @@
 <html>
 	<body>
-	master
+	master(스태시 테스트용 수정)
 	일상적인 업무
 	리스트 옵션
 	실험의 내용
