@@ -8,5 +8,6 @@
 	push2
 	external diff (master, 실험4)
 	external diff test (master)
+	sta
 	</body>
 </html>
